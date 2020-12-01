@@ -1,4 +1,14 @@
 # roblox-fflag-bot
-Track Roblox FFlags with Discord Webhooks
+Track Roblox FFlags with Discord Webhooks.
 
-I can't guarantee the quality of this code as I'm still learning.
+## Features:
+- Rich embeds
+- Rollout and PlaceFilter detection
+- Flag descriptions (powered by release notes)
+- Flag ignore list
+- Bind multiple webhooks to channels
+- Links to full flag edit history
+
+## Dependencies:
+- node-fetch
+- node-html-parser

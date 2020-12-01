@@ -1,0 +1,38 @@
+[
+    {
+        "prefix": "FFlag",
+        "display": "Feature"
+    },
+    {
+        "prefix": "DFFlag",
+        "display": "Dynamic Feature"
+    },
+    {
+        "prefix": "FInt",
+        "display": "Integer"
+    },
+    {
+        "prefix": "DFInt",
+        "display": "Dynamic Integer"
+    },
+    {
+        "prefix": "FString",
+        "display": "String"
+    },
+    {
+        "prefix": "SFFlag",
+        "display": "Synced Feature"
+    },
+    {
+        "prefix": "FLog",
+        "display": "Log"
+    },
+    {
+        "prefix": "DFString",
+        "display": "Dynamic String"
+    },
+    {
+        "prefix": "DFLog",
+        "display": "Dynamic Log"
+    }
+]
