@@ -18,7 +18,7 @@ module.exports = class RolloutAddEmbed extends Embed{
 
 		this.fields[1].value = `${flag.value / percentageMax}%`
 		this.fields[2] = {
-			name: 'Old Value',
+			name: 'Previously',
 			value: `${(flag.old_value || 0) / percentageMax}%`,
 			inline: true
 		}

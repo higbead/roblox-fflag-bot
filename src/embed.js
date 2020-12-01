@@ -17,7 +17,7 @@ module.exports = class{
 		]
 		if(flag.old_value){
 			this.fields.push({
-				name: 'Old Value',
+				name: 'Previously',
 				value: flag.old_value,
 				inline: true
 			})
