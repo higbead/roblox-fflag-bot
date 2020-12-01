@@ -52,7 +52,7 @@ class Flag{
 			if(this.value.startsWith('True')){
 				this.embed_type = 'BoolEnabled'
 
-			}else if(this.value.startsWith('False')){
+			}else if(this.value.startsWith('False') && this.old_value){
 				this.embed_type = 'BoolDisabled'
 			}
 		}
