@@ -1,11 +1,11 @@
 [
     {
         "prefix": "FFlag",
-        "display": "Feature"
+        "display": "Boolean"
     },
     {
         "prefix": "DFFlag",
-        "display": "Dynamic Feature"
+        "display": "Dynamic Boolean"
     },
     {
         "prefix": "FInt",
@@ -21,7 +21,7 @@
     },
     {
         "prefix": "SFFlag",
-        "display": "Synced Feature"
+        "display": "Synced Boolean"
     },
     {
         "prefix": "FLog",

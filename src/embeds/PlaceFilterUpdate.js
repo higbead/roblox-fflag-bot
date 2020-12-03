@@ -50,7 +50,7 @@ module.exports = class PlaceFilterEmbed extends Embed{
 	}
 	color = 11690225
 	author = {
-		name: 'Place Filter Updated',
+		name: 'Place Whitelist Updated',
 		icon_url: 'https://cdn.discordapp.com/attachments/782720351883886624/783148351356272660/PlaceFilterChanged.png'
 	}
 }
