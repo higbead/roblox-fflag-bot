@@ -20,6 +20,13 @@ Track Roblox FFlags with Discord Webhooks.
 - Bind discord channels to specific FFlag channels
 <img src="https://cdn.discordapp.com/attachments/782720351883886624/783900392215805962/unknown.png">
 
+## Screenshots
+<img src="https://cdn.discordapp.com/attachments/645073316872192022/783863199958302740/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/645073316872192022/783863497544826900/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/645073316872192022/783863989879832617/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/645073316872192022/783864477456007175/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/645073316872192022/783866553934020628/unknown.png">
+
 ## Dependencies:
 - node-fetch
 - node-html-parser
