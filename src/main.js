@@ -17,7 +17,7 @@ const IGNORE_LIST = { // list of flags to ignore, in case roblox keeps updating 
 	FFlagThisFlagSucks: true
 }
 
-const TOKEN = 'NzgzODY3MTkwMzAxNTU2NzM2.X8g_NQ._fXecznVdrtI7zaLCR03ioyRfHw'
+const TOKEN = ''
 
 const fetch = require('node-fetch')
 const notes = require('./notes')
