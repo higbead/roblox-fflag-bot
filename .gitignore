@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Data files
+src/data/descriptions.json
+src/data/parsedPages.json
+src/data/tracking.json
