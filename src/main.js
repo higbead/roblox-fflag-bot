@@ -142,7 +142,7 @@ async function updateDescriptions(){
 
 	for(let [, page] of pages.entries()){
 
-		if(parsedPages[page]){return}
+		if(parsedPages[page]){continue}
 
 		let desc = await notes.fetchNotes(page)
 
