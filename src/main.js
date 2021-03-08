@@ -258,6 +258,11 @@ client.on('ready', () => {
 	
 	updateDescriptions()
 	setInterval(updateDescriptions, RELEASE_NOTE_POLLING_INTERVAL)
+	
+	client.user.setActivity({
+		name: 'Roblox FFlags',
+		type: 'WATCHING'
+	})
 })
 
 client.login(TOKEN)
