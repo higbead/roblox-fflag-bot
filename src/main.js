@@ -65,10 +65,10 @@ class Flag{
 			}
 
 		}else if(this.type.includes('Boolean')){
-			if(this.value.startsWith('True')){
+			if(this.value.toLowerCase().startsWith('true')){
 				this.embed_type = 'BoolEnabled'
 
-			}else if(this.value.startsWith('False') && this.old_value){
+			}else if(this.value.toLowerCase().startsWith('false') && this.old_value){
 				this.embed_type = 'BoolDisabled'
 			}
 		}
